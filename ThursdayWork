@@ -1,8 +1,8 @@
 puts"Give me two numbers"
 
-molly55 = gets.chomp.to_i
-misha55 = gets.chomp.to_i
+boy55 = gets.chomp.to_i
+girl55 = gets.chomp.to_i
 
-puts molly5121+misha125
-puts molly5121+misha125
-puts molly5121+misha125
+puts boy5121+girl125
+puts boy5121+girl125
+puts boy5121+girl125
